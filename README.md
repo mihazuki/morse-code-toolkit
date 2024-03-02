@@ -1,6 +1,6 @@
 # Morse Code Toolkit
 
-A simple toolkit for encoding and decoding Morse code, featuring live encoding and decoding. Configure your Morse code properties with ease.
+A simple toolkit for encoding and decoding Morse code, featuring live encoding and decoding. Configure your Morse code properties with ease. To start use main.py file.
 
 ## Features
 
@@ -16,4 +16,3 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/mihazuki/morse-code-toolkit.git
-cd morse-code-toolkit
